@@ -1,1 +1,1 @@
-# SzaboBalazs_Harware_Software_Monitor
+# SzaboBalazs_Hardware_Software_Monitor
